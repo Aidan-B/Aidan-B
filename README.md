@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! I'm Aidan 👋🏻
 
-<!--
-**Aidan-B/Aidan-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student in Systems Design Engineering at the University of Waterloo.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Many years ago, I discovered a passion for computing.
+I love of making cool things and have put that passion to making interesting software and electronic projects.
+Check out some of the stuff I have made at [aidan-b.github.io][portfolio] and feel free to reach out to me.
+
+
+I am currently learning React. Let me know if you have any tips!
+
+I want to get into contributing to some open source projects. Let me know if you need some help! I have experience with Python, C++, Unity C#, Node & Javascript, PHP and more!
+
+
+
+[portfolio]: https://aidan-b.github.io
